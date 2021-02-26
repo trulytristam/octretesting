@@ -23,5 +23,11 @@
     <ClInclude Include="print.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="olcPixelGameEngine.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="vf3dMat44.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
